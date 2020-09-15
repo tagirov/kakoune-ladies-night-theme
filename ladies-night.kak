@@ -1,4 +1,4 @@
-# code
+# CODE
 
 face global value rgb:85bb68
 face global type rgb:e0e0e0
@@ -15,7 +15,7 @@ face global documentation comment
 face global meta rgb:F9B548 
 face global builtin rgb:858585+b
 
-# text
+# TEXT
 
 face global title rgb:59b186
 face global header rgb:e0e0e0
