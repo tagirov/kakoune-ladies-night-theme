@@ -13,6 +13,7 @@ Based on [Ladies Night 2](http://color-themes.com/?view=theme&id=566065a4ddacef1
 
 ![Rust & Shell](https://i.redd.it/qrahizyllbn51.jpg)
 
-__
+
+_________________
 
 If you're looking for more light, check out [Snow Light theme](https://github.com/caksoylar/kakoune-snow)
