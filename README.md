@@ -19,4 +19,4 @@ or use [plug.kak](https://gitlab.com/robertmeta/plug.kak) plugin manager
 ![](https://i.redd.it/qrahizyllbn51.jpg)
 
 #
-If you're looking for more light, check out [Snow Light theme](https://github.com/caksoylar/kakoune-snow)
+If you're looking for more light, check out [Snow Light Kakoune theme](https://github.com/caksoylar/kakoune-snow)
