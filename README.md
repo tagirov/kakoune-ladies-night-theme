@@ -1,4 +1,4 @@
-## Ladies Night Kakoune
+## Ladies Night Kakoune Colorscheme
 
 Inspired by [Ladies Night 2](http://color-themes.com/?view=theme&id=566065a4ddacef1b003edb63) theme
 
