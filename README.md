@@ -1,6 +1,6 @@
 ## Ladies Night Kakoune Theme
 
-Based on [Ladies Night 2](http://color-themes.com/?view=theme&id=566065a4ddacef1b003edb63)
+Inspired by [Ladies Night 2](http://color-themes.com/?view=theme&id=566065a4ddacef1b003edb63) theme
 
 # Install
 
