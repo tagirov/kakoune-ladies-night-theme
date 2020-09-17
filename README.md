@@ -8,7 +8,7 @@ Use [plug.kak](https://gitlab.com/robertmeta/plug.kak) plugin manager
 ```
 echo 'plug "tagirov/kakoune-ladies-night-theme" theme %{ colorscheme ladies-night }' >> ~/.config/kak/kakrc
 ```
-Or install it manualy
+Or install it manually
 
 ```
 git clone https://github.com/tagirov/kakoune-ladies-night-theme
