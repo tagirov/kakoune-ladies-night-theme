@@ -1,6 +1,3 @@
-![](https://i.redd.it/qrahizyllbn51.jpg)
-#
-
 # Install
 
 Use [plug.kak](https://gitlab.com/robertmeta/plug.kak) plugin manager <br />
@@ -14,6 +11,10 @@ Or install it manually<br />
 2.  `mkdir -p ~/.config/kak/colors/ && mv ./kakoune-ladies-night-theme/ladies-night.kak ~/.config/kak/colors/`<br />
 
 3.  `echo "colorscheme ladies-night" >> ~/.config/kak/kakrc`
+
+<br />
+
+![](https://i.redd.it/qrahizyllbn51.jpg)
 
 #
 Inspired by [Ladies Night 2](http://color-themes.com/?view=theme&id=566065a4ddacef1b003edb63) colorscheme. <br />
