@@ -4,15 +4,21 @@ Inspired by [Ladies Night 2](http://color-themes.com/?view=theme&id=566065a4ddac
 
 # Install
 
-1. `git clone https://github.com/tagirov/kakoune-ladies-night-theme`
-2. `mkdir -p ~/.config/kak/colors/ && mv ./kakoune-ladies-night-theme/ladies-night.kak ~/.config/kak/colors/`
-3. Run Kakoune and type 
-`:colorscheme ladies-night`
+Use [plug.kak](https://gitlab.com/robertmeta/plug.kak) plugin manager 
+```
+echo 'plug "tagirov/kakoune-ladies-night-theme" theme %{ colorscheme ladies-night }' >> ~/.config/kak/kakrc
+```
+Or install it manualy
 
-For set this theme as default, you might either edit kakrc 
-`echo "colorscheme ladies-night" >> ~/.config/kak/kakrc`
-or use [plug.kak](https://gitlab.com/robertmeta/plug.kak) plugin manager 
-`echo 'plug "tagirov/kakoune-ladies-night-theme" theme %{ colorscheme ladies-night }' >> ~/.config/kak/kakrc`
+```
+git clone https://github.com/tagirov/kakoune-ladies-night-theme
+```
+```
+mkdir -p ~/.config/kak/colors/ && mv ./kakoune-ladies-night-theme/ladies-night.kak ~/.config/kak/colors/
+```
+```
+echo "colorscheme ladies-night" >> ~/.config/kak/kakrc
+```
 
 # 
 
