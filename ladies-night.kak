@@ -10,7 +10,7 @@ face global string rgb:85bb68
 face global keyword rgb:76A2D9+b
 face global operator rgb:e0e0e0
 face global attribute rgb:e0e0e0
-face global comment rgb:6b6699+i
+face global comment rgb:726F80+i
 face global documentation comment
 face global meta rgb:F9B548 
 face global builtin rgb:858585+b
