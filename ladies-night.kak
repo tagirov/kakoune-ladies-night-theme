@@ -1,4 +1,4 @@
-# code
+# CODE
 
 face global value rgb:85bb68
 face global type rgb:e0e0e0
@@ -10,12 +10,12 @@ face global string rgb:85bb68
 face global keyword rgb:76A2D9+b
 face global operator rgb:e0e0e0
 face global attribute rgb:e0e0e0
-face global comment rgb:6b6699+i
+face global comment rgb:726F80+i
 face global documentation comment
 face global meta rgb:F9B548 
 face global builtin rgb:858585+b
 
-# text
+# TEXT
 
 face global title rgb:59b186
 face global header rgb:e0e0e0
@@ -38,8 +38,8 @@ face global MatchingChar  rgb:e0e0e0,rgb:D77D98
 face global Search default,rgb:cccccc
 face global Whitespace default,rgb:cccccc
 face global BufferPadding rgb:b4bbc5,rgb:2b3036
-face global LineNumbers rgb:b4bbc5,rgb:303541
-face global LineNumberCursor rgb:43C3C1
+face global LineNumbers rgb:b4bbc5
+face global LineNumberCursor rgb:ffffff+b
 face global MenuForeground rgb:ededed,rgb:258d77
 face global MenuBackground default,rgb:303541
 face global MenuInfo rgb:dedede,rgb:2F343F
